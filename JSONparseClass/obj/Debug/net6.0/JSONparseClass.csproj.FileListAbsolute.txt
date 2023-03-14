@@ -1,0 +1,12 @@
+C:\Users\hanam\source\repos\SecondProject(JSON)\JSONparseClass\obj\Debug\net6.0\JSONparseClass.csproj.AssemblyReference.cache
+C:\Users\hanam\source\repos\SecondProject(JSON)\JSONparseClass\obj\Debug\net6.0\JSONparseClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanam\source\repos\SecondProject(JSON)\JSONparseClass\obj\Debug\net6.0\JSONparseClass.AssemblyInfoInputs.cache
+C:\Users\hanam\source\repos\SecondProject(JSON)\JSONparseClass\obj\Debug\net6.0\JSONparseClass.AssemblyInfo.cs
+C:\Users\hanam\source\repos\SecondProject(JSON)\JSONparseClass\obj\Debug\net6.0\JSONparseClass.csproj.CoreCompileInputs.cache
+C:\Users\hanam\source\repos\SecondProject(JSON)\JSONparseClass\bin\Debug\net6.0\JSONparseClass.deps.json
+C:\Users\hanam\source\repos\SecondProject(JSON)\JSONparseClass\bin\Debug\net6.0\JSONparseClass.dll
+C:\Users\hanam\source\repos\SecondProject(JSON)\JSONparseClass\bin\Debug\net6.0\JSONparseClass.pdb
+C:\Users\hanam\source\repos\SecondProject(JSON)\JSONparseClass\obj\Debug\net6.0\JSONparseClass.dll
+C:\Users\hanam\source\repos\SecondProject(JSON)\JSONparseClass\obj\Debug\net6.0\refint\JSONparseClass.dll
+C:\Users\hanam\source\repos\SecondProject(JSON)\JSONparseClass\obj\Debug\net6.0\JSONparseClass.pdb
+C:\Users\hanam\source\repos\SecondProject(JSON)\JSONparseClass\obj\Debug\net6.0\ref\JSONparseClass.dll

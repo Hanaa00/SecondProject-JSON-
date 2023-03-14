@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qlZJWmFpO3IB/ZueJwCdNEMNvQhwBxxs6R+PFgL2NyZEYhJ0qbVtNRmcvT7ywcu9AoPadV0nDQHL2XcqUk6Jzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hanam\\source\\repos\\SecondProject(JSON)\\JSONparseClass\\JSONparseClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanam\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
